@@ -1,0 +1,2313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-10-09">
+    <creator>Gephi 0.11.3</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="group" title="group" type="string"/>
+      <attribute id="x" title="x" type="double"/>
+      <attribute id="y" title="y" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="DitchMitch (25329)" label="DitchMitch (25329)">
+        <attvalues>
+          <attvalue for="group" value="NEW"/>
+          <attvalue for="x" value="-23.609436"/>
+          <attvalue for="y" value="2230.271484"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-23.609436" y="2230.271484"/>
+      </node>
+      <node id="fix multCo (25331)" label="fix multCo (25331)">
+        <attvalues>
+          <attvalue for="group" value="NEW"/>
+          <attvalue for="x" value="-439.092712"/>
+          <attvalue for="y" value="1900.597412"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-439.092712" y="1900.597412"/>
+      </node>
+      <node id="goPDX (25330)" label="goPDX (25330)">
+        <attvalues>
+          <attvalue for="group" value="NEW"/>
+          <attvalue for="x" value="-71.072937"/>
+          <attvalue for="y" value="1959.518921"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-71.072937" y="1959.518921"/>
+      </node>
+      <node id="Coalition for Portland’s Future (23696)" label="Coalition for Portland’s Future (23696)">
+        <attvalues>
+          <attvalue for="group" value="PBA"/>
+          <attvalue for="x" value="1018.939331"/>
+          <attvalue for="y" value="257.339478"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1018.939331" y="257.339478"/>
+      </node>
+      <node id="Oregon Prosperity Action Fund (24814)" label="Oregon Prosperity Action Fund (24814)">
+        <attvalues>
+          <attvalue for="group" value="PBA"/>
+          <attvalue for="x" value="-323.4104"/>
+          <attvalue for="y" value="1333.589478"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-323.4104" y="1333.589478"/>
+      </node>
+      <node id="Portland Alliance PAC (21819)" label="Portland Alliance PAC (21819)">
+        <attvalues>
+          <attvalue for="group" value="PBA"/>
+          <attvalue for="x" value="140.002808"/>
+          <attvalue for="y" value="564.732666"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="140.002808" y="564.732666"/>
+      </node>
+      <node id="Portland United PAC (21821)" label="Portland United PAC (21821)">
+        <attvalues>
+          <attvalue for="group" value="PBA"/>
+          <attvalue for="x" value="2122.01416"/>
+          <attvalue for="y" value="351.246979"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2122.01416" y="351.246979"/>
+      </node>
+      <node id="United for Portland" label="United for Portland">
+        <attvalues>
+          <attvalue for="group" value="PBA"/>
+          <attvalue for="x" value="586.394043"/>
+          <attvalue for="y" value="1595.152466"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="586.394043" y="1595.152466"/>
+      </node>
+      <node id="United for Portland Action Fund (21023)" label="United for Portland Action Fund (21023)">
+        <attvalues>
+          <attvalue for="group" value="PBA"/>
+          <attvalue for="x" value="1446.931641"/>
+          <attvalue for="y" value="1369.060425"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1446.931641" y="1369.060425"/>
+      </node>
+      <node id="1039 Building LLC" label="1039 Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2468.905518"/>
+          <attvalue for="y" value="104.501648"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2468.905518" y="104.501648"/>
+      </node>
+      <node id="1100 Building LLC" label="1100 Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1659.780273"/>
+          <attvalue for="y" value="74.388855"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1659.780273" y="74.388855"/>
+      </node>
+      <node id="1535 LLC" label="1535 LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1316.097656"/>
+          <attvalue for="y" value="1829.305664"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1316.097656" y="1829.305664"/>
+      </node>
+      <node id="200 Market Building" label="200 Market Building">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2111.2854"/>
+          <attvalue for="y" value="78.421692"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2111.2854" y="78.421692"/>
+      </node>
+      <node id="3rd and Ash LLc" label="3rd and Ash LLc">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1661.576172"/>
+          <attvalue for="y" value="-64.059143"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1661.576172" y="-64.059143"/>
+      </node>
+      <node id="707 SW Washington Prop" label="707 SW Washington Prop">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2212.376221"/>
+          <attvalue for="y" value="-342.623962"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2212.376221" y="-342.623962"/>
+      </node>
+      <node id="9th &amp; Davis QOZB LLC" label="9th &amp; Davis QOZB LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1513.396729"/>
+          <attvalue for="y" value="-171.819214"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1513.396729" y="-171.819214"/>
+      </node>
+      <node id="Affiliated Media" label="Affiliated Media">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-508.165466"/>
+          <attvalue for="y" value="2323.970947"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-508.165466" y="2323.970947"/>
+      </node>
+      <node id="Al Solheim" label="Al Solheim">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1929.142334"/>
+          <attvalue for="y" value="1621.501221"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1929.142334" y="1621.501221"/>
+      </node>
+      <node id="Alex Platt" label="Alex Platt">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2196.361572"/>
+          <attvalue for="y" value="-410.213196"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2196.361572" y="-410.213196"/>
+      </node>
+      <node id="Alice Powell" label="Alice Powell">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="128.221924"/>
+          <attvalue for="y" value="752.974976"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="128.221924" y="752.974976"/>
+      </node>
+      <node id="Alliance PAC (4797)" label="Alliance PAC (4797)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="576.935181"/>
+          <attvalue for="y" value="1035.414551"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="576.935181" y="1035.414551"/>
+      </node>
+      <node id="Amazon.com Services LLC" label="Amazon.com Services LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="170.332153"/>
+          <attvalue for="y" value="1078.386719"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="170.332153" y="1078.386719"/>
+      </node>
+      <node id="Ames Family Investments, LLC" label="Ames Family Investments, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2029.059326"/>
+          <attvalue for="y" value="2309.433594"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2029.059326" y="2309.433594"/>
+      </node>
+      <node id="Andrew Rowe" label="Andrew Rowe">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="806.212036"/>
+          <attvalue for="y" value="1825.644165"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="806.212036" y="1825.644165"/>
+      </node>
+      <node id="Ashley Odil" label="Ashley Odil">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-311.29541"/>
+          <attvalue for="y" value="384.427673"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-311.29541" y="384.427673"/>
+      </node>
+      <node id="Ashton for Metro (20882)" label="Ashton for Metro (20882)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-42.578735"/>
+          <attvalue for="y" value="3.319458"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-42.578735" y="3.319458"/>
+      </node>
+      <node id="Barry Raber" label="Barry Raber">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1746.863525"/>
+          <attvalue for="y" value="7.612854"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1746.863525" y="7.612854"/>
+      </node>
+      <node id="Ben West for Oregon (20597)" label="Ben West for Oregon (20597)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-502.15686"/>
+          <attvalue for="y" value="-506.207886"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-502.15686" y="-506.207886"/>
+      </node>
+      <node id="Bennett, Hartman LLP" label="Bennett, Hartman LLP">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-16.316895"/>
+          <attvalue for="y" value="255.612122"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-16.316895" y="255.612122"/>
+      </node>
+      <node id="Bobbie Howard" label="Bobbie Howard">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2130.44043"/>
+          <attvalue for="y" value="-111.835083"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2130.44043" y="-111.835083"/>
+      </node>
+      <node id="BOMA Oregon (4554)" label="BOMA Oregon (4554)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1595.105103"/>
+          <attvalue for="y" value="-354.966675"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1595.105103" y="-354.966675"/>
+      </node>
+      <node id="Building Our Future Together (22654)" label="Building Our Future Together (22654)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="230.645447"/>
+          <attvalue for="y" value="-613.115723"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="230.645447" y="-613.115723"/>
+      </node>
+      <node id="Cambia Health Solutions" label="Cambia Health Solutions">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="120.621704"/>
+          <attvalue for="y" value="1140.847046"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="120.621704" y="1140.847046"/>
+      </node>
+      <node id="Carol Lewis" label="Carol Lewis">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1869.373169"/>
+          <attvalue for="y" value="2096.538818"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1869.373169" y="2096.538818"/>
+      </node>
+      <node id="Catalyst" label="Catalyst">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="796.537781"/>
+          <attvalue for="y" value="1474.199341"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="796.537781" y="1474.199341"/>
+      </node>
+      <node id="Catherine Millar" label="Catherine Millar">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1934.267578"/>
+          <attvalue for="y" value="1870.660522"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1934.267578" y="1870.660522"/>
+      </node>
+      <node id="Charles Halladay" label="Charles Halladay">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="849.954529"/>
+          <attvalue for="y" value="2067.524414"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="849.954529" y="2067.524414"/>
+      </node>
+      <node id="Charles Swindells" label="Charles Swindells">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1361.222046"/>
+          <attvalue for="y" value="2214.429199"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1361.222046" y="2214.429199"/>
+      </node>
+      <node id="Chip Shields" label="Chip Shields">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1961.591309"/>
+          <attvalue for="y" value="1902.332764"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1961.591309" y="1902.332764"/>
+      </node>
+      <node id="Chris Nelson" label="Chris Nelson">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2083.081055"/>
+          <attvalue for="y" value="1627.065674"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2083.081055" y="1627.065674"/>
+      </node>
+      <node id="Christine Lewis for Metro (18968)" label="Christine Lewis for Metro (18968)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="244.65094"/>
+          <attvalue for="y" value="-41.255249"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="244.65094" y="-41.255249"/>
+      </node>
+      <node id="Christopher Kopca" label="Christopher Kopca">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1644.245117"/>
+          <attvalue for="y" value="1612.307129"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1644.245117" y="1612.307129"/>
+      </node>
+      <node id="Clean Sweep Campaigns" label="Clean Sweep Campaigns">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1071.62085"/>
+          <attvalue for="y" value="-7.4104"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1071.62085" y="-7.4104"/>
+      </node>
+      <node id="Columbia Bank" label="Columbia Bank">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1900.659912"/>
+          <attvalue for="y" value="1010.785522"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1900.659912" y="1010.785522"/>
+      </node>
+      <node id="Columbia Square LLC Clients' Trust Account" label="Columbia Square LLC Clients' Trust Account">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2426.711426"/>
+          <attvalue for="y" value="1160.41394"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2426.711426" y="1160.41394"/>
+      </node>
+      <node id="Comcast Corporation" label="Comcast Corporation">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-239.765137"/>
+          <attvalue for="y" value="940.248901"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-239.765137" y="940.248901"/>
+      </node>
+      <node id="Commercial Association of Brokers PAC (5576)" label="Commercial Association of Brokers PAC (5576)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1644.24646"/>
+          <attvalue for="y" value="1997.130859"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1644.24646" y="1997.130859"/>
+      </node>
+      <node id="Craig Hartzman" label="Craig Hartzman">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1432.046875"/>
+          <attvalue for="y" value="1497.042725"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1432.046875" y="1497.042725"/>
+      </node>
+      <node id="Crown Plaza" label="Crown Plaza">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1534.035767"/>
+          <attvalue for="y" value="-253.44104"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1534.035767" y="-253.44104"/>
+      </node>
+      <node id="Cushman &amp; Wakefield of Oregon" label="Cushman &amp; Wakefield of Oregon">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-236.65332"/>
+          <attvalue for="y" value="868.843384"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-236.65332" y="868.843384"/>
+      </node>
+      <node id="Dacia for Oregon (20290)" label="Dacia for Oregon (20290)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-534.428589"/>
+          <attvalue for="y" value="280.680481"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-534.428589" y="280.680481"/>
+      </node>
+      <node id="Daniel Deutsch" label="Daniel Deutsch">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1414.806519"/>
+          <attvalue for="y" value="1642.851807"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1414.806519" y="1642.851807"/>
+      </node>
+      <node id="Daniel O'Halloran" label="Daniel O'Halloran">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="780.236816"/>
+          <attvalue for="y" value="412.867615"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="780.236816" y="412.867615"/>
+      </node>
+      <node id="David Ambrose" label="David Ambrose">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2026.952515"/>
+          <attvalue for="y" value="1776.26001"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2026.952515" y="1776.26001"/>
+      </node>
+      <node id="David Thompson" label="David Thompson">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2184.694336"/>
+          <attvalue for="y" value="1900.168091"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2184.694336" y="1900.168091"/>
+      </node>
+      <node id="Davis Wright Tremaine" label="Davis Wright Tremaine">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="801.966797"/>
+          <attvalue for="y" value="1167.819458"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="801.966797" y="1167.819458"/>
+      </node>
+      <node id="Dennis Allen" label="Dennis Allen">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="642.340454"/>
+          <attvalue for="y" value="2043.115479"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="642.340454" y="2043.115479"/>
+      </node>
+      <node id="Development Company of the West, LLC" label="Development Company of the West, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1960.623779"/>
+          <attvalue for="y" value="2171.28125"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1960.623779" y="2171.28125"/>
+      </node>
+      <node id="DHM Research" label="DHM Research">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="777.335022"/>
+          <attvalue for="y" value="1249.136841"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="777.335022" y="1249.136841"/>
+      </node>
+      <node id="DHM Research, LLC" label="DHM Research, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="771.775818"/>
+          <attvalue for="y" value="456.942566"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="771.775818" y="456.942566"/>
+      </node>
+      <node id="Diana Helm for County Commissioner (24640)" label="Diana Helm for County Commissioner (24640)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-101.5625"/>
+          <attvalue for="y" value="-189.144409"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-101.5625" y="-189.144409"/>
+      </node>
+      <node id="DoorDash Inc" label="DoorDash Inc">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="184.518677"/>
+          <attvalue for="y" value="877.049438"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="184.518677" y="877.049438"/>
+      </node>
+      <node id="Doug Bean" label="Doug Bean">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1681.052002"/>
+          <attvalue for="y" value="-216.635101"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1681.052002" y="-216.635101"/>
+      </node>
+      <node id="Douglas MacLeod" label="Douglas MacLeod">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1939.053101"/>
+          <attvalue for="y" value="-403.829468"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1939.053101" y="-403.829468"/>
+      </node>
+      <node id="Downtown Developers LLC" label="Downtown Developers LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2343.938477"/>
+          <attvalue for="y" value="1008.336853"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2343.938477" y="1008.336853"/>
+      </node>
+      <node id="Downtown Development Group" label="Downtown Development Group">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2004.361938"/>
+          <attvalue for="y" value="2266.932129"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2004.361938" y="2266.932129"/>
+      </node>
+      <node id="Ed Casey" label="Ed Casey">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2430.520996"/>
+          <attvalue for="y" value="650.164856"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2430.520996" y="650.164856"/>
+      </node>
+      <node id="Edge Management FBO 1039 Building LLC" label="Edge Management FBO 1039 Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1886.296875"/>
+          <attvalue for="y" value="2353.372559"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1886.296875" y="2353.372559"/>
+      </node>
+      <node id="Edge Management FBO 1100 Building LLC" label="Edge Management FBO 1100 Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1597.049927"/>
+          <attvalue for="y" value="1911.391846"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1597.049927" y="1911.391846"/>
+      </node>
+      <node id="Edward Maletis" label="Edward Maletis">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1088.863159"/>
+          <attvalue for="y" value="2243.347168"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1088.863159" y="2243.347168"/>
+      </node>
+      <node id="Elephants at World Trade Center" label="Elephants at World Trade Center">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="305.824524"/>
+          <attvalue for="y" value="-482.634216"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="305.824524" y="-482.634216"/>
+      </node>
+      <node id="Elevated Campaigns" label="Elevated Campaigns">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1408.53125"/>
+          <attvalue for="y" value="587.018921"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1408.53125" y="587.018921"/>
+      </node>
+      <node id="Elizabeth Fuller" label="Elizabeth Fuller">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2144.224854"/>
+          <attvalue for="y" value="1719.064453"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2144.224854" y="1719.064453"/>
+      </node>
+      <node id="Eric Thompson" label="Eric Thompson">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2380.128174"/>
+          <attvalue for="y" value="-285.26239"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2380.128174" y="-285.26239"/>
+      </node>
+      <node id="Fairbank, Maslin, Maullin, Metz &amp; Associates" label="Fairbank, Maslin, Maullin, Metz &amp; Associates">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="601.391052"/>
+          <attvalue for="y" value="-532.175842"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="601.391052" y="-532.175842"/>
+      </node>
+      <node id="Fix Our Streets Portland (17676)" label="Fix Our Streets Portland (17676)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="472.002014"/>
+          <attvalue for="y" value="69.472473"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="472.002014" y="69.472473"/>
+      </node>
+      <node id="Friends of Alex Phan (24457)" label="Friends of Alex Phan (24457)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="135.497437"/>
+          <attvalue for="y" value="-241.186646"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="135.497437" y="-241.186646"/>
+      </node>
+      <node id="Friends of Ashley Hartmeier-Prigg (19768)" label="Friends of Ashley Hartmeier-Prigg (19768)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-258.564819"/>
+          <attvalue for="y" value="-84.509338"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-258.564819" y="-84.509338"/>
+      </node>
+      <node id="Friends of Beach Pace (18891)" label="Friends of Beach Pace (18891)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-46.594421"/>
+          <attvalue for="y" value="331.849365"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-46.594421" y="331.849365"/>
+      </node>
+      <node id="Friends of Duncan Hwang (21657)" label="Friends of Duncan Hwang (21657)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="69.029053"/>
+          <attvalue for="y" value="144.271179"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="69.029053" y="144.271179"/>
+      </node>
+      <node id="Friends of Felicita (18441)" label="Friends of Felicita (18441)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="480.644165"/>
+          <attvalue for="y" value="-79.587158"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="480.644165" y="-79.587158"/>
+      </node>
+      <node id="Friends of Janeen Sollman (17890)" label="Friends of Janeen Sollman (17890)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-357.569214"/>
+          <attvalue for="y" value="-141.558105"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-357.569214" y="-141.558105"/>
+      </node>
+      <node id="Friends of Lacey Beaty (16588)" label="Friends of Lacey Beaty (16588)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-702.41748"/>
+          <attvalue for="y" value="138.902802"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-702.41748" y="138.902802"/>
+      </node>
+      <node id="Friends of Martha Schrader (5724)" label="Friends of Martha Schrader (5724)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-75.062622"/>
+          <attvalue for="y" value="197.158691"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-75.062622" y="197.158691"/>
+      </node>
+      <node id="Friends of Melissa Fireside (20695)" label="Friends of Melissa Fireside (20695)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-130.631714"/>
+          <attvalue for="y" value="-278.646484"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-130.631714" y="-278.646484"/>
+      </node>
+      <node id="Friends of Nafisa Fai (20102)" label="Friends of Nafisa Fai (20102)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-783.795776"/>
+          <attvalue for="y" value="10.956024"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-783.795776" y="10.956024"/>
+      </node>
+      <node id="Friends of Pam Treece (18397)" label="Friends of Pam Treece (18397)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="675.309448"/>
+          <attvalue for="y" value="-25.545746"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="675.309448" y="-25.545746"/>
+      </node>
+      <node id="Friends of Paul Savas (14364)" label="Friends of Paul Savas (14364)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-24.654663"/>
+          <attvalue for="y" value="90.825134"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-24.654663" y="90.825134"/>
+      </node>
+      <node id="Friends of Peter Grabiel (23327)" label="Friends of Peter Grabiel (23327)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="841.940735"/>
+          <attvalue for="y" value="-405.398712"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="841.940735" y="-405.398712"/>
+      </node>
+      <node id="Friends of Rene Gonzalez (21605)" label="Friends of Rene Gonzalez (21605)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="568.609985"/>
+          <attvalue for="y" value="-149.694946"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="568.609985" y="-149.694946"/>
+      </node>
+      <node id="Friends of Rob Wagner (18396)" label="Friends of Rob Wagner (18396)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="82.783081"/>
+          <attvalue for="y" value="98.980225"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="82.783081" y="98.980225"/>
+      </node>
+      <node id="Friends of Sam Adams (20340)" label="Friends of Sam Adams (20340)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="402.208801"/>
+          <attvalue for="y" value="364.264038"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="402.208801" y="364.264038"/>
+      </node>
+      <node id="Friends of Sonya Fischer (16623)" label="Friends of Sonya Fischer (16623)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-527.783447"/>
+          <attvalue for="y" value="197.689514"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-527.783447" y="197.689514"/>
+      </node>
+      <node id="Friends of Steve Callaway (14651)" label="Friends of Steve Callaway (14651)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-256.200684"/>
+          <attvalue for="y" value="-238.179565"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-256.200684" y="-238.179565"/>
+      </node>
+      <node id="Friends of Tobias Read (5208)" label="Friends of Tobias Read (5208)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-405.300049"/>
+          <attvalue for="y" value="-5.516357"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-405.300049" y="-5.516357"/>
+      </node>
+      <node id="Friends of Tootie Smith (20016)" label="Friends of Tootie Smith (20016)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="249.831665"/>
+          <attvalue for="y" value="418.2771"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="249.831665" y="418.2771"/>
+      </node>
+      <node id="Friends of Vadim (21632)" label="Friends of Vadim (21632)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-674.930237"/>
+          <attvalue for="y" value="-247.417694"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-674.930237" y="-247.417694"/>
+      </node>
+      <node id="Fubonn Supermarket, Inc." label="Fubonn Supermarket, Inc.">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-152.099243"/>
+          <attvalue for="y" value="899.509155"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-152.099243" y="899.509155"/>
+      </node>
+      <node id="Gard Communications" label="Gard Communications">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="601.110168"/>
+          <attvalue for="y" value="967.446167"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="601.110168" y="967.446167"/>
+      </node>
+      <node id="Gary Oxley" label="Gary Oxley">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1769.366699"/>
+          <attvalue for="y" value="1610.755249"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1769.366699" y="1610.755249"/>
+      </node>
+      <node id="Gerding Edlen Development Company" label="Gerding Edlen Development Company">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1267.445679"/>
+          <attvalue for="y" value="2041.833374"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1267.445679" y="2041.833374"/>
+      </node>
+      <node id="GG Pearl LLC" label="GG Pearl LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2392.446289"/>
+          <attvalue for="y" value="185.065002"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2392.446289" y="185.065002"/>
+      </node>
+      <node id="Gold Properties, LLC" label="Gold Properties, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1804.314697"/>
+          <attvalue for="y" value="2033.934937"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1804.314697" y="2033.934937"/>
+      </node>
+      <node id="Goldsmith Blocks LLC" label="Goldsmith Blocks LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1457.798096"/>
+          <attvalue for="y" value="-118.754089"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1457.798096" y="-118.754089"/>
+      </node>
+      <node id="Gonzalez for Oregon (18888)" label="Gonzalez for Oregon (18888)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-412.80249"/>
+          <attvalue for="y" value="447.614899"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-412.80249" y="447.614899"/>
+      </node>
+      <node id="Greg Specht" label="Greg Specht">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2454.059082"/>
+          <attvalue for="y" value="589.455017"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2454.059082" y="589.455017"/>
+      </node>
+      <node id="Gremar Properties" label="Gremar Properties">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1154.640747"/>
+          <attvalue for="y" value="1605.381226"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1154.640747" y="1605.381226"/>
+      </node>
+      <node id="Harsch Investment Properties" label="Harsch Investment Properties">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="867.400696"/>
+          <attvalue for="y" value="1879.643555"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="867.400696" y="1879.643555"/>
+      </node>
+      <node id="Home Building Association of Greater Portland" label="Home Building Association of Greater Portland">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-134.032104"/>
+          <attvalue for="y" value="1456.085693"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-134.032104" y="1456.085693"/>
+      </node>
+      <node id="Hoyt Building Investors LLC" label="Hoyt Building Investors LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2416.484863"/>
+          <attvalue for="y" value="737.403931"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2416.484863" y="737.403931"/>
+      </node>
+      <node id="Intel" label="Intel">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-172.570435"/>
+          <attvalue for="y" value="1010.891724"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-172.570435" y="1010.891724"/>
+      </node>
+      <node id="Interstate Building LLC" label="Interstate Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2465.650391"/>
+          <attvalue for="y" value="-79.665527"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2465.650391" y="-79.665527"/>
+      </node>
+      <node id="Iron Workers District Council of the Pacific Northwest (3816)" label="Iron Workers District Council of the Pacific Northwest (3816)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1059.595581"/>
+          <attvalue for="y" value="2389.577637"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1059.595581" y="2389.577637"/>
+      </node>
+      <node id="Jake Laban" label="Jake Laban">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2033.449585"/>
+          <attvalue for="y" value="2083.713867"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2033.449585" y="2083.713867"/>
+      </node>
+      <node id="James John" label="James John">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2061.607422"/>
+          <attvalue for="y" value="1969.641479"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2061.607422" y="1969.641479"/>
+      </node>
+      <node id="James Winkler" label="James Winkler">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2522.116211"/>
+          <attvalue for="y" value="965.528381"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2522.116211" y="965.528381"/>
+      </node>
+      <node id="Jared Wiener" label="Jared Wiener">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="289.496826"/>
+          <attvalue for="y" value="800.092346"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="289.496826" y="800.092346"/>
+      </node>
+      <node id="Jeff Reingold" label="Jeff Reingold">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1806.111328"/>
+          <attvalue for="y" value="1903.999023"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1806.111328" y="1903.999023"/>
+      </node>
+      <node id="Jeffrey Martens" label="Jeffrey Martens">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1814.412476"/>
+          <attvalue for="y" value="2220.713135"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1814.412476" y="2220.713135"/>
+      </node>
+      <node id="Jennifer Yocom" label="Jennifer Yocom">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1280.944458"/>
+          <attvalue for="y" value="1566.035645"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1280.944458" y="1566.035645"/>
+      </node>
+      <node id="Jessie Burke's Positivity PAC (23326)" label="Jessie Burke's Positivity PAC (23326)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="23.3396"/>
+          <attvalue for="y" value="-200.743042"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="23.3396" y="-200.743042"/>
+      </node>
+      <node id="John Andrews" label="John Andrews">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1669.535522"/>
+          <attvalue for="y" value="1472.743652"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1669.535522" y="1472.743652"/>
+      </node>
+      <node id="John Bishop" label="John Bishop">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2263.22168"/>
+          <attvalue for="y" value="1839.520142"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2263.22168" y="1839.520142"/>
+      </node>
+      <node id="John DiLorenzo" label="John DiLorenzo">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2465.13916"/>
+          <attvalue for="y" value="1224.063477"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2465.13916" y="1224.063477"/>
+      </node>
+      <node id="Jonah Flynn" label="Jonah Flynn">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1855.769165"/>
+          <attvalue for="y" value="-345.271301"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1855.769165" y="-345.271301"/>
+      </node>
+      <node id="Kara Murray" label="Kara Murray">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1547.676758"/>
+          <attvalue for="y" value="-8.524078"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1547.676758" y="-8.524078"/>
+      </node>
+      <node id="Karen Whitman Projects" label="Karen Whitman Projects">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1593.962402"/>
+          <attvalue for="y" value="1681.222534"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1593.962402" y="1681.222534"/>
+      </node>
+      <node id="Kathleen Lewis" label="Kathleen Lewis">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1248.854858"/>
+          <attvalue for="y" value="1956.089722"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1248.854858" y="1956.089722"/>
+      </node>
+      <node id="Kathryn Kelley" label="Kathryn Kelley">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2257.977295"/>
+          <attvalue for="y" value="-28.554382"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2257.977295" y="-28.554382"/>
+      </node>
+      <node id="Keep Portland Safe PAC (4167)" label="Keep Portland Safe PAC (4167)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1397.778442"/>
+          <attvalue for="y" value="2333.328857"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1397.778442" y="2333.328857"/>
+      </node>
+      <node id="Keith Wilson" label="Keith Wilson">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2607.98999"/>
+          <attvalue for="y" value="-451.186646"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2607.98999" y="-451.186646"/>
+      </node>
+      <node id="Keith Wilson for Mayor (23349)" label="Keith Wilson for Mayor (23349)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="125.712006"/>
+          <attvalue for="y" value="-134.953369"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="125.712006" y="-134.953369"/>
+      </node>
+      <node id="Kevin Howard" label="Kevin Howard">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1940.581055"/>
+          <attvalue for="y" value="4.188812"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1940.581055" y="4.188812"/>
+      </node>
+      <node id="Killian Pacific LLC" label="Killian Pacific LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="600.746582"/>
+          <attvalue for="y" value="1085.772705"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="600.746582" y="1085.772705"/>
+      </node>
+      <node id="Killian Pacific, LLC" label="Killian Pacific, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1661.718628"/>
+          <attvalue for="y" value="-407.013702"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1661.718628" y="-407.013702"/>
+      </node>
+      <node id="Lance Killian" label="Lance Killian">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1726.122314"/>
+          <attvalue for="y" value="1778.075317"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1726.122314" y="1778.075317"/>
+      </node>
+      <node id="Laura CatoHundtoft" label="Laura CatoHundtoft">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1650.263428"/>
+          <attvalue for="y" value="1853.857666"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1650.263428" y="1853.857666"/>
+      </node>
+      <node id="Laurie for Oregon (20178)" label="Laurie for Oregon (20178)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1340.63916"/>
+          <attvalue for="y" value="1912.729858"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1340.63916" y="1912.729858"/>
+      </node>
+      <node id="Lester Baskin" label="Lester Baskin">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1711.162598"/>
+          <attvalue for="y" value="1528.5979"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1711.162598" y="1528.5979"/>
+      </node>
+      <node id="Local 48 Electricians PAC (4572)" label="Local 48 Electricians PAC (4572)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2426.090088"/>
+          <attvalue for="y" value="-117.166443"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2426.090088" y="-117.166443"/>
+      </node>
+      <node id="Lori Hardwick Fundraising, Inc." label="Lori Hardwick Fundraising, Inc.">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-832.123779"/>
+          <attvalue for="y" value="395.865692"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-832.123779" y="395.865692"/>
+      </node>
+      <node id="Loring Street Building LLC" label="Loring Street Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2128.286865"/>
+          <attvalue for="y" value="-471.692444"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2128.286865" y="-471.692444"/>
+      </node>
+      <node id="Mark Central Plaza LLC" label="Mark Central Plaza LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2356.687256"/>
+          <attvalue for="y" value="-175.54303"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2356.687256" y="-175.54303"/>
+      </node>
+      <node id="Mark Central Plaza LLC Clients' Trust Account" label="Mark Central Plaza LLC Clients' Trust Account">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="834.654663"/>
+          <attvalue for="y" value="2454.280762"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="834.654663" y="2454.280762"/>
+      </node>
+      <node id="Mark Properties Ltd. Partnership" label="Mark Properties Ltd. Partnership">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="843.486511"/>
+          <attvalue for="y" value="1990.109985"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="843.486511" y="1990.109985"/>
+      </node>
+      <node id="Mary Lou Gets Results (23275)" label="Mary Lou Gets Results (23275)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="570.810974"/>
+          <attvalue for="y" value="-352.032501"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="570.810974" y="-352.032501"/>
+      </node>
+      <node id="Maxine for Oregon (19909)" label="Maxine for Oregon (19909)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="929.605286"/>
+          <attvalue for="y" value="-314.111176"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="929.605286" y="-314.111176"/>
+      </node>
+      <node id="Melvin Mark Brokerage Company" label="Melvin Mark Brokerage Company">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="723.446777"/>
+          <attvalue for="y" value="2222.728516"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="723.446777" y="2222.728516"/>
+      </node>
+      <node id="Menashe Properties Inc" label="Menashe Properties Inc">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1156.77002"/>
+          <attvalue for="y" value="1740.39917"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1156.77002" y="1740.39917"/>
+      </node>
+      <node id="Michael Zupan" label="Michael Zupan">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1623.53833"/>
+          <attvalue for="y" value="1729.109253"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1623.53833" y="1729.109253"/>
+      </node>
+      <node id="Mike Shiley" label="Mike Shiley">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1839.31958"/>
+          <attvalue for="y" value="-193.208557"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1839.31958" y="-193.208557"/>
+      </node>
+      <node id="Miller Nash Graham &amp; Dunn" label="Miller Nash Graham &amp; Dunn">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-397.485107"/>
+          <attvalue for="y" value="1040.48645"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-397.485107" y="1040.48645"/>
+      </node>
+      <node id="Modern Infrastructure Alliance PAC" label="Modern Infrastructure Alliance PAC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-106.490112"/>
+          <attvalue for="y" value="1215.987183"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-106.490112" y="1215.987183"/>
+      </node>
+      <node id="Moore Strategic Consulting" label="Moore Strategic Consulting">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-728.921997"/>
+          <attvalue for="y" value="-71.553192"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-728.921997" y="-71.553192"/>
+      </node>
+      <node id="Morel Ink" label="Morel Ink">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1295.275879"/>
+          <attvalue for="y" value="344.563416"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1295.275879" y="344.563416"/>
+      </node>
+      <node id="NAIOP Oregon Chapter" label="NAIOP Oregon Chapter">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1080.739868"/>
+          <attvalue for="y" value="1815.890259"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1080.739868" y="1815.890259"/>
+      </node>
+      <node id="Nathan Nayman" label="Nathan Nayman">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="628.635071"/>
+          <attvalue for="y" value="918.015564"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="628.635071" y="918.015564"/>
+      </node>
+      <node id="Nathan Sasaki" label="Nathan Sasaki">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1565.532227"/>
+          <attvalue for="y" value="2177.598145"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1565.532227" y="2177.598145"/>
+      </node>
+      <node id="National Association of Realtors PAC" label="National Association of Realtors PAC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2206.655273"/>
+          <attvalue for="y" value="1536.286133"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2206.655273" y="1536.286133"/>
+      </node>
+      <node id="Natural Gas Political Action Committee (102)" label="Natural Gas Political Action Committee (102)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="412.653381"/>
+          <attvalue for="y" value="1222.31958"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="412.653381" y="1222.31958"/>
+      </node>
+      <node id="Nawzad Othman" label="Nawzad Othman">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1051.505127"/>
+          <attvalue for="y" value="2115.542969"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1051.505127" y="2115.542969"/>
+      </node>
+      <node id="NBP Capital" label="NBP Capital">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1995.013184"/>
+          <attvalue for="y" value="1215.683594"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1995.013184" y="1215.683594"/>
+      </node>
+      <node id="NBP Capital LLC" label="NBP Capital LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1773.75061"/>
+          <attvalue for="y" value="-115.939026"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1773.75061" y="-115.939026"/>
+      </node>
+      <node id="Nike Inc." label="Nike Inc.">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="309.916199"/>
+          <attvalue for="y" value="713.5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="309.916199" y="713.5"/>
+      </node>
+      <node id="Nolan for Metro (20341)" label="Nolan for Metro (20341)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-777.528931"/>
+          <attvalue for="y" value="-155.603271"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-777.528931" y="-155.603271"/>
+      </node>
+      <node id="North Star Action Center" label="North Star Action Center">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="429.678833"/>
+          <attvalue for="y" value="198.749695"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="429.678833" y="198.749695"/>
+      </node>
+      <node id="Northstar Civic Foundation Action Fund" label="Northstar Civic Foundation Action Fund">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="589.404358"/>
+          <attvalue for="y" value="-253.403564"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="589.404358" y="-253.403564"/>
+      </node>
+      <node id="Northwest Natural Gas Company" label="Northwest Natural Gas Company">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-547.351196"/>
+          <attvalue for="y" value="1401.339111"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-547.351196" y="1401.339111"/>
+      </node>
+      <node id="Northwest Oreogn Labor Council AFL-CIO" label="Northwest Oreogn Labor Council AFL-CIO">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2081.644531"/>
+          <attvalue for="y" value="2464.878662"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2081.644531" y="2464.878662"/>
+      </node>
+      <node id="Oregon Beverage PAC (126)" label="Oregon Beverage PAC (126)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="941.785278"/>
+          <attvalue for="y" value="2299.625732"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="941.785278" y="2299.625732"/>
+      </node>
+      <node id="Oregon Beverage Recycling Cooperative" label="Oregon Beverage Recycling Cooperative">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="211.847412"/>
+          <attvalue for="y" value="999.876099"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="211.847412" y="999.876099"/>
+      </node>
+      <node id="Oregon Council of NECA Chapters (135)" label="Oregon Council of NECA Chapters (135)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2650.382568"/>
+          <attvalue for="y" value="759.277893"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2650.382568" y="759.277893"/>
+      </node>
+      <node id="Oregon Realtors" label="Oregon Realtors">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-518.936279"/>
+          <attvalue for="y" value="1508.78772"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-518.936279" y="1508.78772"/>
+      </node>
+      <node id="Oregon Realtors Political Action Committee (191)" label="Oregon Realtors Political Action Committee (191)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-151.008545"/>
+          <attvalue for="y" value="1565.093384"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-151.008545" y="1565.093384"/>
+      </node>
+      <node id="Oregon Secretary of State Elections Division" label="Oregon Secretary of State Elections Division">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="807.2146"/>
+          <attvalue for="y" value="134.067322"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="807.2146" y="134.067322"/>
+      </node>
+      <node id="Oregon Smart Growth PAC (18871)" label="Oregon Smart Growth PAC (18871)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1012.342041"/>
+          <attvalue for="y" value="2173.472168"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1012.342041" y="2173.472168"/>
+      </node>
+      <node id="Oregonians for Affordable Housing (2069)" label="Oregonians for Affordable Housing (2069)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1770.748657"/>
+          <attvalue for="y" value="-299.999878"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1770.748657" y="-299.999878"/>
+      </node>
+      <node id="Oregonians United to End Slavery (22327)" label="Oregonians United to End Slavery (22327)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-386.503052"/>
+          <attvalue for="y" value="-413.307312"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-386.503052" y="-413.307312"/>
+      </node>
+      <node id="ORLA Local Action Committee (14935)" label="ORLA Local Action Committee (14935)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1511.732056"/>
+          <attvalue for="y" value="2084.755127"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1511.732056" y="2084.755127"/>
+      </node>
+      <node id="Pacific Northwest Regional Council of Carpenters, SSF" label="Pacific Northwest Regional Council of Carpenters, SSF">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1904.097412"/>
+          <attvalue for="y" value="1930.131592"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1904.097412" y="1930.131592"/>
+      </node>
+      <node id="PacifiCorp" label="PacifiCorp">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-91.677856"/>
+          <attvalue for="y" value="962.792419"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-91.677856" y="962.792419"/>
+      </node>
+      <node id="Paige Morgan" label="Paige Morgan">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="794.483765"/>
+          <attvalue for="y" value="1715.609741"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="794.483765" y="1715.609741"/>
+      </node>
+      <node id="Parking NW, LLC" label="Parking NW, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="150.092896"/>
+          <attvalue for="y" value="944.798218"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="150.092896" y="944.798218"/>
+      </node>
+      <node id="Partnership for Common Sense Government (22259)" label="Partnership for Common Sense Government (22259)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-32.374268"/>
+          <attvalue for="y" value="-345.699829"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-32.374268" y="-345.699829"/>
+      </node>
+      <node id="Paul Del Vecchio" label="Paul Del Vecchio">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2130.073242"/>
+          <attvalue for="y" value="2136.725098"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2130.073242" y="2136.725098"/>
+      </node>
+      <node id="Paula Diamond" label="Paula Diamond">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1243.401733"/>
+          <attvalue for="y" value="2287.195557"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1243.401733" y="2287.195557"/>
+      </node>
+      <node id="Pegg Investment Co" label="Pegg Investment Co">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2343.796875"/>
+          <attvalue for="y" value="944.135925"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2343.796875" y="944.135925"/>
+      </node>
+      <node id="Peter Angel" label="Peter Angel">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2180.769531"/>
+          <attvalue for="y" value="2018.748291"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2180.769531" y="2018.748291"/>
+      </node>
+      <node id="Peter Bechen" label="Peter Bechen">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1593.841431"/>
+          <attvalue for="y" value="2292.306152"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1593.841431" y="2292.306152"/>
+      </node>
+      <node id="Peter Stott" label="Peter Stott">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1275.342285"/>
+          <attvalue for="y" value="1762.275391"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1275.342285" y="1762.275391"/>
+      </node>
+      <node id="Polity PAC (19000)" label="Polity PAC (19000)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1663.987061"/>
+          <attvalue for="y" value="251.727356"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1663.987061" y="251.727356"/>
+      </node>
+      <node id="Portland Business Alliance" label="Portland Business Alliance">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-806.052307"/>
+          <attvalue for="y" value="762.986694"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-806.052307" y="762.986694"/>
+      </node>
+      <node id="Portland General Electric Employee Candidate Assistance Fund (2480)" label="Portland General Electric Employee Candidate Assistance Fund (2480)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-67.936035"/>
+          <attvalue for="y" value="1103.425659"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-67.936035" y="1103.425659"/>
+      </node>
+      <node id="Portland Metro Chamber" label="Portland Metro Chamber">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="255.590149"/>
+          <attvalue for="y" value="-285.242065"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="255.590149" y="-285.242065"/>
+      </node>
+      <node id="Portland Metro Fire Fighters PAC (223)" label="Portland Metro Fire Fighters PAC (223)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1477.193237"/>
+          <attvalue for="y" value="2451.138916"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1477.193237" y="2451.138916"/>
+      </node>
+      <node id="Portland Metropolitan Association of Realtors PAC (6165)" label="Portland Metropolitan Association of Realtors PAC (6165)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1570.244019"/>
+          <attvalue for="y" value="855.717407"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1570.244019" y="855.717407"/>
+      </node>
+      <node id="Portlanders for Parks (20771)" label="Portlanders for Parks (20771)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="415.811829"/>
+          <attvalue for="y" value="285.589172"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="415.811829" y="285.589172"/>
+      </node>
+      <node id="Portlanders for Safe and Healthy Schools (18466)" label="Portlanders for Safe and Healthy Schools (18466)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-14.016205"/>
+          <attvalue for="y" value="-543.19696"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-14.016205" y="-543.19696"/>
+      </node>
+      <node id="Regence" label="Regence">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="592.610352"/>
+          <attvalue for="y" value="1139.92041"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="592.610352" y="1139.92041"/>
+      </node>
+      <node id="Reluctant Cynic Legal Services" label="Reluctant Cynic Legal Services">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="285.195801"/>
+          <attvalue for="y" value="1266.017334"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="285.195801" y="1266.017334"/>
+      </node>
+      <node id="Robert Sweeney" label="Robert Sweeney">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="696.865723"/>
+          <attvalue for="y" value="2115.446533"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="696.865723" y="2115.446533"/>
+      </node>
+      <node id="Robert Walsh" label="Robert Walsh">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1847.750977"/>
+          <attvalue for="y" value="1573.025879"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1847.750977" y="1573.025879"/>
+      </node>
+      <node id="Ron Sauer" label="Ron Sauer">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1868.572021"/>
+          <attvalue for="y" value="1727.378418"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1868.572021" y="1727.378418"/>
+      </node>
+      <node id="Safeway #2993" label="Safeway #2993">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="390.65799"/>
+          <attvalue for="y" value="-395.807678"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="390.65799" y="-395.807678"/>
+      </node>
+      <node id="Sandra Mcdonough" label="Sandra Mcdonough">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1741.623779"/>
+          <attvalue for="y" value="1954.029785"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1741.623779" y="1954.029785"/>
+      </node>
+      <node id="Schnitzer Properties LLC" label="Schnitzer Properties LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2168.659912"/>
+          <attvalue for="y" value="31.003204"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2168.659912" y="31.003204"/>
+      </node>
+      <node id="Scott Pratt" label="Scott Pratt">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1928.190674"/>
+          <attvalue for="y" value="1815.373901"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1928.190674" y="1815.373901"/>
+      </node>
+      <node id="SEIU Local 49 COPE Fund (4213)" label="SEIU Local 49 COPE Fund (4213)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2234.711914"/>
+          <attvalue for="y" value="1677.458984"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2234.711914" y="1677.458984"/>
+      </node>
+      <node id="Seth Leavens" label="Seth Leavens">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1882.461914"/>
+          <attvalue for="y" value="2005.284912"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1882.461914" y="2005.284912"/>
+      </node>
+      <node id="Sherman Sherman Johnnie &amp; Hoyt, LLP" label="Sherman Sherman Johnnie &amp; Hoyt, LLP">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="765.980957"/>
+          <attvalue for="y" value="493.730316"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="765.980957" y="493.730316"/>
+      </node>
+      <node id="SMART Local 16 PAC (16178)" label="SMART Local 16 PAC (16178)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2053.556396"/>
+          <attvalue for="y" value="262.256226"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2053.556396" y="262.256226"/>
+      </node>
+      <node id="Springboard Group" label="Springboard Group">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="579.956726"/>
+          <attvalue for="y" value="1196.147461"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="579.956726" y="1196.147461"/>
+      </node>
+      <node id="Standard Insurance Company" label="Standard Insurance Company">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2094.930664"/>
+          <attvalue for="y" value="-234.395447"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2094.930664" y="-234.395447"/>
+      </node>
+      <node id="Stephen Babson" label="Stephen Babson">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1483.29126"/>
+          <attvalue for="y" value="1802.65918"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1483.29126" y="1802.65918"/>
+      </node>
+      <node id="Stephen Janik" label="Stephen Janik">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2269.239258"/>
+          <attvalue for="y" value="1773.36499"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2269.239258" y="1773.36499"/>
+      </node>
+      <node id="Strategies 360, Inc." label="Strategies 360, Inc.">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-412.505005"/>
+          <attvalue for="y" value="31.911682"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-412.505005" y="31.911682"/>
+      </node>
+      <node id="Studio Arts Building LLC" label="Studio Arts Building LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1471.07666"/>
+          <attvalue for="y" value="-187.988953"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1471.07666" y="-187.988953"/>
+      </node>
+      <node id="Swickard Management Company" label="Swickard Management Company">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="507.216431"/>
+          <attvalue for="y" value="1934.314819"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="507.216431" y="1934.314819"/>
+      </node>
+      <node id="Swift Public Affairs" label="Swift Public Affairs">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1268.483521"/>
+          <attvalue for="y" value="104.401123"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1268.483521" y="104.401123"/>
+      </node>
+      <node id="Swift Public Affairs LLC" label="Swift Public Affairs LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-765.494568"/>
+          <attvalue for="y" value="478.984497"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-765.494568" y="478.984497"/>
+      </node>
+      <node id="Swire Coca Cola" label="Swire Coca Cola">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-135.982544"/>
+          <attvalue for="y" value="737.168823"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-135.982544" y="737.168823"/>
+      </node>
+      <node id="Technology &amp; Arts Block, LLC" label="Technology &amp; Arts Block, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1968.282959"/>
+          <attvalue for="y" value="138.852631"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1968.282959" y="138.852631"/>
+      </node>
+      <node id="The Pickle Factory LLC" label="The Pickle Factory LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1956.126343"/>
+          <attvalue for="y" value="-68.938843"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1956.126343" y="-68.938843"/>
+      </node>
+      <node id="The Rally Point" label="The Rally Point">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-968.034302"/>
+          <attvalue for="y" value="1322.597534"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-968.034302" y="1322.597534"/>
+      </node>
+      <node id="The Singer Family LLC" label="The Singer Family LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1014.89624"/>
+          <attvalue for="y" value="1665.360107"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1014.89624" y="1665.360107"/>
+      </node>
+      <node id="The Standard" label="The Standard">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="24.776245"/>
+          <attvalue for="y" value="814.926941"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="24.776245" y="814.926941"/>
+      </node>
+      <node id="The Wolff Company" label="The Wolff Company">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2361.405273"/>
+          <attvalue for="y" value="1630.535522"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2361.405273" y="1630.535522"/>
+      </node>
+      <node id="Thomas Cody" label="Thomas Cody">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1599.973755"/>
+          <attvalue for="y" value="1391.44873"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1599.973755" y="1391.44873"/>
+      </node>
+      <node id="Tillamook County Creamery Association" label="Tillamook County Creamery Association">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-365.782654"/>
+          <attvalue for="y" value="1123.994629"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-365.782654" y="1123.994629"/>
+      </node>
+      <node id="Timothy Boyle" label="Timothy Boyle">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2416.856201"/>
+          <attvalue for="y" value="798.069519"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2416.856201" y="798.069519"/>
+      </node>
+      <node id="Tina for Clackamas (23086)" label="Tina for Clackamas (23086)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-658.366943"/>
+          <attvalue for="y" value="-352.249298"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-658.366943" y="-352.249298"/>
+      </node>
+      <node id="TMT Development Co, LLC" label="TMT Development Co, LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-303.523132"/>
+          <attvalue for="y" value="785.524475"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-303.523132" y="785.524475"/>
+      </node>
+      <node id="Trail Blazers Inc." label="Trail Blazers Inc.">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="7.895386"/>
+          <attvalue for="y" value="931.497986"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="7.895386" y="931.497986"/>
+      </node>
+      <node id="Travis Parrott" label="Travis Parrott">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1018.913025"/>
+          <attvalue for="y" value="1941.437622"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1018.913025" y="1941.437622"/>
+      </node>
+      <node id="UBCT Partnerships Clients' Trust Account" label="UBCT Partnerships Clients' Trust Account">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1446.548584"/>
+          <attvalue for="y" value="2130.446533"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1446.548584" y="2130.446533"/>
+      </node>
+      <node id="Umpqua" label="Umpqua">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="664.178589"/>
+          <attvalue for="y" value="835.052002"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="664.178589" y="835.052002"/>
+      </node>
+      <node id="Umpqua Bank" label="Umpqua Bank">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="405.749084"/>
+          <attvalue for="y" value="884.631104"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="405.749084" y="884.631104"/>
+      </node>
+      <node id="Uptown Developers LLC" label="Uptown Developers LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2345.730469"/>
+          <attvalue for="y" value="1061.115479"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2345.730469" y="1061.115479"/>
+      </node>
+      <node id="Vanessa Sturgeon" label="Vanessa Sturgeon">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="2357.326172"/>
+          <attvalue for="y" value="873.230408"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="2357.326172" y="873.230408"/>
+      </node>
+      <node id="Victor Wunkler" label="Victor Wunkler">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1939.084717"/>
+          <attvalue for="y" value="1716.245117"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1939.084717" y="1716.245117"/>
+      </node>
+      <node id="Vote Vasquez (23012)" label="Vote Vasquez (23012)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="974.679321"/>
+          <attvalue for="y" value="-207.144501"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="974.679321" y="-207.144501"/>
+      </node>
+      <node id="Walter Bowen" label="Walter Bowen">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1209.252563"/>
+          <attvalue for="y" value="1864.335449"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1209.252563" y="1864.335449"/>
+      </node>
+      <node id="Walter M McMonies Jr, Attorney at Law" label="Walter M McMonies Jr, Attorney at Law">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1742.035767"/>
+          <attvalue for="y" value="2397.558105"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1742.035767" y="2397.558105"/>
+      </node>
+      <node id="warren rosenfeld" label="warren rosenfeld">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1991.565918"/>
+          <attvalue for="y" value="-152.258972"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1991.565918" y="-152.258972"/>
+      </node>
+      <node id="Wheelhouse Northwest" label="Wheelhouse Northwest">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-442.749146"/>
+          <attvalue for="y" value="73.737244"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-442.749146" y="73.737244"/>
+      </node>
+      <node id="WJR LLC" label="WJR LLC">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1954.675537"/>
+          <attvalue for="y" value="1662.593262"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1954.675537" y="1662.593262"/>
+      </node>
+      <node id="Worldpay- C&amp;E Merchant Services" label="Worldpay- C&amp;E Merchant Services">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-858.066772"/>
+          <attvalue for="y" value="241.180313"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-858.066772" y="241.180313"/>
+      </node>
+      <node id="Yes for Flood Safety (23427)" label="Yes for Flood Safety (23427)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="90.982025"/>
+          <attvalue for="y" value="-425.322876"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="90.982025" y="-425.322876"/>
+      </node>
+      <node id="YES for the Oregon Zoo (23293)" label="YES for the Oregon Zoo (23293)">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="-554.811401"/>
+          <attvalue for="y" value="327.495911"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-554.811401" y="327.495911"/>
+      </node>
+      <node id="Zach Bonsall" label="Zach Bonsall">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1488.492676"/>
+          <attvalue for="y" value="1553.461426"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1488.492676" y="1553.461426"/>
+      </node>
+      <node id="Elavon- C&amp;E Merchant Services" label="Elavon- C&amp;E Merchant Services">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="967.7323"/>
+          <attvalue for="y" value="850.698364"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="967.7323" y="850.698364"/>
+      </node>
+      <node id="Miscellaneous Cash Expenditures $100 and under" label="Miscellaneous Cash Expenditures $100 and under">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1515.917358"/>
+          <attvalue for="y" value="-843.122192"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1515.917358" y="-843.122192"/>
+      </node>
+      <node id="C&amp;E Systems" label="C&amp;E Systems">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="941.748108"/>
+          <attvalue for="y" value="741.191223"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="941.748108" y="741.191223"/>
+      </node>
+      <node id="Miscellaneous Accounts Payable $100 and under" label="Miscellaneous Accounts Payable $100 and under">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1705.489868"/>
+          <attvalue for="y" value="-993.014709"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1705.489868" y="-993.014709"/>
+      </node>
+      <node id="Miscellaneous Cash Contributions $100 and under" label="Miscellaneous Cash Contributions $100 and under">
+        <attvalues>
+          <attvalue for="group" value="OTHER"/>
+          <attvalue for="x" value="1691.031372"/>
+          <attvalue for="y" value="-724.508362"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="1691.031372" y="-724.508362"/>
+      </node>
+    </nodes>
+    <edges/>
+  </graph>
+</gexf>
